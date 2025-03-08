@@ -36,10 +36,6 @@ Natural disasters and industrial accidents demand advanced solutions for effecti
 4. **ESP Camera Integration**: Set up live video streaming.  
 5. **WiFi Connectivity**: Enable real-time data transmission.
 
-   
-## 📅 Project Timeline (Gantt Chart)  
-- The project follows a structured development plan, detailed in the Gantt chart.  
-
 ## 🛠️ Challenges & Open Issues  
 - **Power Constraints**: Limited battery capacity.  
 - **Environmental Hazards**: Potential damage due to extreme conditions.  
