@@ -1,6 +1,5 @@
 # Scout Rover
-<a href="![image](https://github.com/user-attachments/assets/68c8ffa8-b585-4b4b-886e-c8b7cff4353c)">View Photo</a>
-">view photo</a>
+
 ## 🚀 Overview  
 **Scout Rover** is an IoT-based robotic system designed for **disaster response and environmental monitoring**. It integrates multiple sensors and remote control capabilities to navigate hazardous terrains, detect environmental hazards, and assist response teams with real-time data.  
 
