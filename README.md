@@ -48,11 +48,6 @@ Natural disasters and industrial accidents demand advanced solutions for effecti
 ## 🤝 Contributors  
 - **Team#1** – Prince, Dr. K Vasudevan  
 - **Institution**: College of Engineering and Technology, Chennai  
-
-<href a ![image](https://github.com/user-attachments/assets/56751fc5-dd34-417f-9705-c8fa84fb579e)> Demo</a>
-<href a![image](https://github.com/user-attachments/assets/c0d78b1b-2ee9-47b6-9e38-72ceee285d4b) >image</a>
-
-
 ---
 
 ### 📌 Notes  
